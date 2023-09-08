@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Producer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ServiceBusFullyQualifiedName": "xklservicebus.servicebus.windows.net"
+      }
+    }
+  }
+}
